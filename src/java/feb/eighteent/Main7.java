@@ -1,4 +1,4 @@
-package src.java.feb.twentyeight;
+package src.java.feb.eighteent;
 
 public class Main7 {
     public int reverse(int x) {
